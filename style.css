@@ -1,0 +1,33 @@
+.listed-book {
+  align-items: center;
+  background-color: white;
+  border-radius: 6px;
+  box-sizing: border-box;
+  box-shadow: rgba(33, 37, 41, 0.176) 0px 16px 48px 0px;
+  color: #1e1e1e;
+  font-family: system-ui;
+  line-height: 24px;
+  margin-bottom: 24px;
+  padding: 24px;
+  width: 100%;
+}
+
+.book-heading {
+  color: rgb(13, 110, 253);
+  font-family: system-ui;
+  font-size: 24px;
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+
+.book-title {
+  font-weight: 700;
+}
+
+.book-author {
+  font-weight: 400;
+}
+
+.btn {
+  height: 100%;
+}
